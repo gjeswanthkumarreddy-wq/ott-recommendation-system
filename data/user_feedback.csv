@@ -1,0 +1,13 @@
+user_id,movie_id,title,feedback,rating
+user_00001,movie_0365,First Quest,Dislike,3.0
+user_00001,tmdb_857598,Pushpa 2 - The Rule,Like,5.0
+user_00001,tmdb_969681,Spider-Man: Brand New Day,Like,5.0
+user_00119,movie_0326,Our Queen,Like,
+user_00001,movie_0361,War Adventure,Like,5.0
+user_00006,movie_0994,Battle Queen,Like,
+user_00001,movie_0743,Phoenix City,Like,
+user_00001,movie_0239,Kingdom Dream,Dislike,
+user_00001,movie_0261,Hero Dream,Dislike,
+user_00001,movie_0038,A Empire,Dislike,2.0
+user_00016,movie_0606,Legend Fire,Like,3.0
+user_00001,movie_0098,A War,Dislike,

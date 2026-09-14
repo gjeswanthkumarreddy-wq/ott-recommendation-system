@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+requests
+python-dotenv
+groq
