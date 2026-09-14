@@ -7,3 +7,4 @@ joblib
 requests
 python-dotenv
 groq
+scikit-surprise==1.1.5
